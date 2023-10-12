@@ -144,3 +144,6 @@ C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\obj\Debug\net7.0\refint\AP
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\obj\Debug\net7.0\API.pdb
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
