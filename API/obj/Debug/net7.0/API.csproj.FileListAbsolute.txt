@@ -147,3 +147,5 @@ C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\obj\Debug\net7.0\ref\API.d
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\StackExchange.Redis.dll
