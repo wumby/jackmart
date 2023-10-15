@@ -25,10 +25,15 @@
                 <a class="nav-link" href="#">About</a>
               </li>
             </ul>
-            <form class="d-flex">
-              <input class="form-control me-sm-2" type="search" placeholder="Search">
-              <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
-            </form>
+            <div class="d-flex align-items-center">
+              <a routerLink="/basket" class="position-relative">
+                <i class="fa fa-shopping-cart" style="color: white; font-size:34px;padding-right: 15px;"></i>
+                <div *ngIf="(basketService.basketSource$ | async) as basket" div class="cart-no">{{getCount(basket.items)}}</div>
+              </a>
+             
+              <button class="btn btn-secondary my-2 my-sm-0" routerLink="/basket">Search</button>
+            </div>
+            
           </div>
         </div>
       </nav>
