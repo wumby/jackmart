@@ -3,7 +3,8 @@
 
     <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark" style="width: 100%;">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">SpeedShop</a>
+          <a class="navbar-brand" routerLink="/">SpeedShop</a>
+          <img src="/assets/images/logo1.png" alt="logo" class="logo" style="max-height: 40px;" routerLink="/">
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -30,8 +31,33 @@
                 <i class="fa fa-shopping-cart" style="color: white; font-size:34px;padding-right: 15px;"></i>
                 <div *ngIf="(basketService.basketSource$ | async) as basket" div class="cart-no">{{getCount(basket.items)}}</div>
               </a>
+             <ng-container *ngIf="(accountService.currentUser$ | async) === null">
+
+              <a routerLink="/account/login" class="nav-link my-2 my-sm-0"  style="margin-left:20px;margin-right: 20px;">Login</a>
+              <a  routerLink="/account/register" class="nav-link my-2 my-sm-0">Register</a>
+             </ng-container>
+
+             <ng-container *ngIf="accountService.currentUser$ | async as user">
+              
+              <div class="dropdown ms-3 me-3" style="cursor: pointer;" dropdown>
+              <a dropdownToggle class="dropdown-toggle">
+                <strong>Hi, {{user.displayName}}!</strong>
+              </a>
+              <ul *dropdownMenu class="dropdown-menu dropdown-menu-right">
+                <li class="py-1">
+                  <a routerLink="/basket" class="dropdown-item"><i class="fa fa-shopping-cart me-3"></i> View Basket</a>
+                </li>
+                <li class="py-1">
+                  <a routerLink="/basket" class="dropdown-item"><i class="fa fa-history me-3"></i> Orders</a>
+                </li>
+                <div class="dropdown-divider"></div>
+                <li class="py-1">
+                  <a (click)="accountService.logout()" class="dropdown-item"><i class="fa fa-sign-out me-3"></i> Logout</a>
+                </li>
+              </ul>
+              </div>
+             </ng-container>
              
-              <button class="btn btn-secondary my-2 my-sm-0" routerLink="/basket">Search</button>
             </div>
             
           </div>

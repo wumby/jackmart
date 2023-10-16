@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-center mt-5">
+    <div class="col-3">
+        <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+            <div class="text-center mb-4">
+                <h3 class="mb-3">Login</h3>
+                <app-text-input  [formControl]="loginForm.controls['email']" [label]="'Email Address'"></app-text-input>
+               <app-text-input  [formControl]="loginForm.controls['password']" [type]="'password'" [label]="'Password'"></app-text-input>
+                  <div class="d-grid">
+                    <button [disabled]="loginForm.invalid"  class="btn btn-primary" type="submit" style="margin-top: 10px;">Sign In</button>
+                  </div>
+                  <div class="d-flex justify-content-center mt-2">
+                    Don't have an account?&nbsp; <a routerLink="/account/register" style="text-decoration: underline;"> Register</a>
+                  </div>
+            </div>
+        </form>
+    </div>
+</div>
