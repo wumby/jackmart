@@ -88,6 +88,18 @@ namespace API.Controllers
                 return await _userManager.FindByEmailAsync(email) != null;
         }
 
+        
+
+
+        [Authorize]
+        [HttpGet("address")]
+        public async Task<ActionResult<AddressDto>> GetUserAddress(){
+
+            var user = await _userManager.FindUserByClaimsPrincipleWithAddress(User);
+            return _mapper.Map<Address, AddressDto>(user.Address);
+
+        }
+
         [HttpPut("address")]
         [Authorize]
         public async Task<ActionResult<AddressDto>> UpdateUserAddress(AddressDto address){
@@ -98,16 +110,6 @@ namespace API.Controllers
             var result = await _userManager.UpdateAsync(user);
             if(result.Succeeded) return Ok(_mapper.Map<AddressDto>(user.Address));
             return BadRequest("Problem updatin the user");
-        }
-
-
-        [Authorize]
-        [HttpGet("address")]
-        public async Task<ActionResult<AddressDto>> GetUserAddress(){
-
-            var user = await _userManager.FindUserByClaimsPrincipleWithAddress(User);
-            return _mapper.Map<Address, AddressDto>(user.Address);
-
         }
     }
 }
