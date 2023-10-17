@@ -9,9 +9,6 @@ import { BasketItem } from '../shared/models/Basket';
 })
 export class BasketComponent {
 
-  /**
-   *
-   */
   constructor(public basketService: BasketService) {
     
   }
@@ -20,8 +17,8 @@ export class BasketComponent {
     this.basketService.addItemToBasket(item)
   }
 
-  removeItem(id: number, quantity: number){
-    this.basketService.removeItemFromBasket(id, quantity);
+  removeItem(event: {id: number, quantity: number}){
+    this.basketService.removeItemFromBasket(event.id,event.quantity);
   }
 
 }
