@@ -3,6 +3,7 @@ import { Address } from "./User";
 export interface Order {
     id: number;
     buyerEmail: string;
+    orderDate: string;
     shipToAddress: Address;
     deliveryMethod: string;
     shippingPrice: number;
