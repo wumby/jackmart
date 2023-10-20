@@ -32,11 +32,7 @@ export class BasketService {
     const basket=this.getCurrentBasketValue();
     if(basket){
       basket.deliveryMethodId=deliveryMethod.id;
-      
-      console.log(deliveryMethod);
       basket.shippingPrice=deliveryMethod.price;
-      console.log(basket,basket.shippingPrice);
-      
       this.setBasket(basket);
       
       
@@ -132,7 +128,6 @@ export class BasketService {
 
   private calculateTotals(){
     const basket = this.getCurrentBasketValue();
-    console.log(basket);
     
     if(!basket) return;
       const subtotal = basket.items.reduce((a, b) => (b.price * b.quantity) +a,0);

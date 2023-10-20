@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Core.Entities;
+using Core.Entities.OrderAggregate;
 using Microsoft.Extensions.Configuration;
 
 namespace Core.Interfaces
@@ -11,5 +12,7 @@ namespace Core.Interfaces
     {
     
         Task<CustomerBasket> CreateOrUpdatePaymentIntent(string basketId);
+        Task<Order> UpdateOrderPaymentSucceeded(string paymentIntentId);
+        Task<Order> UpdateOrderPaymentFailed(string paymentIntentId);
     }
 }
