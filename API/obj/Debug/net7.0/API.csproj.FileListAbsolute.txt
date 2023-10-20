@@ -164,3 +164,15 @@ C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\Microsoft
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

@@ -28,6 +28,8 @@ export class CheckoutDeliveryComponent {
 
 
   setShippingPrice(deliveryMethod: DeliveryMethod){
+    console.log(deliveryMethod);
+    
     this.basketService.setShippingPrice(deliveryMethod);
   }
   

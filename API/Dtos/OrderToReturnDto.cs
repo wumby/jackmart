@@ -11,6 +11,7 @@ namespace API.Dtos
     { 
         public int Id { get; set; }
         public string BuyerEmail { get; set; }
+        public DateTime OrderDate { get; set; }
 
         public Core.Entities.OrderAggregate.Address ShipToAddress { get; set; }
         public string DeliveryMethod { get; set; }
