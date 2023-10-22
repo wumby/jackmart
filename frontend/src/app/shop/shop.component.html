@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row" *ngIf="types.length > 0 && brands.length >0">
         <section class="col-3">
-            <h5 class="text-warning ms-3">Sort</h5>
+            <h5 class=" ms-3">Sort</h5>
             <select class="form-select mb-4" (change)="onSortSelected($event)">
                 <option *ngFor="let sort of sortOptions" 
                 [value]="sort.value"
@@ -11,7 +11,7 @@
             </select>
 
 
-            <h5 class="text-warning ms-3">Brands</h5>
+            <h5 class=" ms-3">Brands</h5>
             <ul class="list-group my-3">
                 <li class="list-group-item"
                     *ngFor="let brand of brands"
@@ -19,7 +19,7 @@
                     [value]="brand.id"
                     (click)="onBrandSelected(brand.id)">{{brand.name}}</li>
             </ul>
-            <h5 class="text-warning ms-3">Types</h5>
+            <h5 class="ms-3">Types</h5>
             <ul class="list-group my-3">
                 <li class="list-group-item"
                     *ngFor="let type of types"
@@ -40,7 +40,7 @@
                 <div class="d-flex mt-2">
                     <input (keyup.enter)="onSearch()" type="text" placeholder="Search" class="form-control me-2" #search>
                     <button (click)="onSearch()" class="btn btn-outline-primary mx-2">Search</button>
-                    <button (click)="onReset()" class="btn btn-outline-success">Reset</button>
+                    <button (click)="onReset()" class="btn reset">Reset</button>
                 </div>
             </div>
 

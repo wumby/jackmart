@@ -1,0 +1,23 @@
+.reset{
+    color:white;
+    background-color: black;
+
+}
+
+.reset:hover{
+    color:black;
+    background-color: white;
+    border:2px solid black;
+}
+
+.list-group{
+    cursor: pointer;
+}
+
+.list-group-item{
+    &:not(.active):hover {
+        color: #fff;
+        background-color: black;
+        border-radius: 10px;
+    }
+}

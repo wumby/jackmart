@@ -9,13 +9,31 @@
     right: 32px;
 }
 
+.dropdown-toggle:hover{
+    text-shadow: 0px 0px 10px #fff !important;
+}
+.links{
+    display: flex;
+
+}
 a {
     text-decoration: none;
     color: white;
 
-    &.active {
-        color: black
-    }
+    
+}
+
+a.nav-link{
+    font-size: 1.5em;
+}
+
+a.nav-link:hover{
+    text-shadow: 0 0 10px #fff !important;
+    color:white;
+}
+
+a.navbar-brand:hover{
+    text-shadow: 0 0 10px #fff !important;
 }
 
 .logo {

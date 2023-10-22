@@ -3,3 +3,26 @@
     display: flex;
     justify-content: center;
 }
+
+.welcome-text{
+    z-index: 2;
+    color:black;
+    font-size: 3em;
+}
+
+.text{
+    position: absolute;
+    font-size: 3em;
+    left:5%;
+    bottom:10%;
+    color: white;
+
+}
+
+.shop-btn{
+    margin-left:20px;
+    border-radius:5px;
+    border:none;
+    background-color: red;
+    color:white;
+}

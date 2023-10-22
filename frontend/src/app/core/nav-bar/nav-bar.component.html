@@ -1,33 +1,20 @@
 s<header class="d-flex flex-row align-items-center justify-content-between border-bottom fixed-top shadow-sm"  style="background-color: #343a40">
    
 
-    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark" style="width: 100%;">
+    <nav class="navbar bg-primary" data-bs-theme="dark" style="width: 100%;">
         <div class="container-fluid">
-          <a class="navbar-brand" routerLink="/">speedsters</a>
-          <img src="/assets/images/logo1.png" alt="logo" class="logo" style="max-height: 40px;" routerLink="/">
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+          <a class="navbar-brand" routerLink="/">speedsters<img src="/assets/images/logo1.png" alt="logo" class="logo" style="max-height: 40px;padding-left:10px" routerLink="/"></a>
+          
 
-          <div class="collapse navbar-collapse" id="navbarColor01">
-            <ul class="navbar-nav me-auto">
-              <li class="nav-item">
-                <a class="nav-link active" href="#">Home
+          <div  class="d-flex align-items-center justify-content-between">
+                <a class="nav-link" routerLink="">Home
                   <span class="visually-hidden">(current)</span>
                 </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" routerLink="/shop" routerLinkActive="active">Shop</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" routerLink="/test-error" routerLinkActive="active">Errors</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
-              </li>
-            </ul>
+                <a class="nav-link" routerLink="/shop" style="padding:15px">Shop</a>
+                <a class="nav-link" routerLink="/about" >About</a>
+          </div>
             <div class="d-flex align-items-center">
-              <a routerLink="/basket" class="position-relative">
+              <a routerLink="/cart" class="position-relative">
                 <i class="fa fa-shopping-cart" style="color: white; font-size:34px;padding-right: 15px;"></i>
                 <div *ngIf="(basketService.basketSource$ | async) as basket">
                   <div class="cart-no">{{getCount(basket.items)}}</div>
@@ -48,7 +35,7 @@ s<header class="d-flex flex-row align-items-center justify-content-between borde
               </a>
               <ul *dropdownMenu class="dropdown-menu dropdown-menu-right">
                 <li class="py-1">
-                  <a routerLink="/basket" class="dropdown-item"><i class="fa fa-shopping-cart me-3"></i> View Cart</a>
+                  <a routerLink="/cart" class="dropdown-item"><i class="fa fa-shopping-cart me-3 cart-icon"></i> View Cart</a>
                 </li>
                 <li class="py-1">
                   <a routerLink="/orders" class="dropdown-item"><i class="fa fa-history me-3"></i> Orders</a>
@@ -62,9 +49,9 @@ s<header class="d-flex flex-row align-items-center justify-content-between borde
              </ng-container>
              
             </div>
+            </div>
             
-          </div>
-        </div>
+          
       </nav>
 
 
