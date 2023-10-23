@@ -12,12 +12,14 @@ import { LoadingInterceptor } from './core/interceptors/loading.interceptor';
 import { JwtInterceptor } from './core/interceptors/jwt.interceptor';
 import { OrdersComponent } from './orders/orders.component';
 import { OrderDetailedComponent } from './order-detailed/order-detailed.component';
+import { AboutComponent } from './about/about.component';
+import { AboutModule } from './about/about.module';
 
 @NgModule({
   declarations: [
     AppComponent,
     OrdersComponent,
-    OrderDetailedComponent
+    OrderDetailedComponent,
   ],
   imports: [
     BrowserModule,
@@ -26,6 +28,7 @@ import { OrderDetailedComponent } from './order-detailed/order-detailed.componen
     HttpClientModule,
     CoreModule,
     HomeModule,
+    AboutModule,
     NgxSpinnerModule
   ],
   providers: [

@@ -12,6 +12,7 @@ const routes: Routes = [
   {path: 'not-found', component: NotFoundComponent},
   {path: 'server-error', component: ServerErrorComponent},
   {path: 'shop', loadChildren: () => import('./shop/shop.module').then(m => m.ShopModule)},
+  {path: 'about', loadChildren: () => import('./about/about.module').then(m => m.AboutModule)},
   {
     path: 'orders', 
     canActivate: [AuthGuard],
