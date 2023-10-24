@@ -1,146 +1,146 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
-    "ProductTypeId": 1,
+    "Name": "Honda Shadow Phantom",
+    "Description": "This cruiser is perfect for any speedster who wants some comfort. This 745cc V-twin engine will leave anyone in the dust. After our tuneups on this bike it has reached a top speed of 150mph.",
+    "Price": 9500,
+    "PictureUrl": "images/products/shadow.png",
+    "ProductTypeId": 2,
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "Name": "Kawasaki Ninja H2",
+    "Description": "Here is the bike if you want to be the fastest thing allowed on streets. An absolute beast that can reach top speeds of 200 mph.",
+    "Price": 40000,
+    "PictureUrl": "images/products/h2r.png",
     "ProductTypeId": 1,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Core Board Speed Rush 3",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 5
-  },
-  {
-    "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
-    "ProductTypeId": 3,
     "ProductBrandId": 6
   },
   {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
+    "Name": "Yamaha 700f",
+    "Description": "A supermoto that looks crazy and drives crazier. This thing wheelies without trying and can hit speeds of 130mph.",
+    "Price": 11800,
+    "PictureUrl": "images/products/sb-core1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "KTM 450SR",
+    "Description": "Our favorite supermoto for sale here at speedsters. Everyone will look at you while speeding by in this bike. You could be doing speeds of 150mph.",
+    "Price": 14600,
+    "PictureUrl": "images/products/ktm450smr.png",
+    "ProductTypeId": 4,
     "ProductBrandId": 2
   },
   {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
+    "Name": "Honda Metropolitan",
+    "Description": "Welcome to city speeding in style. This scooter is sleek and we have made it fast. Topping out at 87 mph take this scooter down the highway and impress everyone.",
+    "Price": 3000,
+    "PictureUrl": "images/products/metro.png",
     "ProductTypeId": 3,
     "ProductBrandId": 1
   },
   {
-    "Name": "Angular Blue Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
-    "ProductTypeId": 3,
+    "Name": "Kawasaki Vulcan 1700",
+    "Description": "An absolute beast of a cruiser. 1700cc V-Twin with integrated luggage is the perfect cross country cruiser. You will make it there on time with top speeds of 164mph.",
+    "Price": 120,
+    "PictureUrl": "images/products/vulcan.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Harley Street Glide",
+    "Description": "The most iconic cruiser body style of all time. You cant go wrong with a street glide. To get across the country, ride this bike at speeds of 156mph.",
+    "Price": 25000,
+    "PictureUrl": "images/products/streetglide.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Honda CB300R",
+    "Description": "All speedsters have to start somewhere. This is the perfect starting sport bike coming with a good price and good speed. A smooth rider this bike also topped out at 103 mph.",
+    "Price": 4500,
+    "PictureUrl": "images/products/crf_300R.png",
+    "ProductTypeId": 1,
     "ProductBrandId": 1
+  },
+  {
+    "Name": "Kawasaki KLX300",
+    "Description": "This 4-stroke supermoto brings power and speed to the dirt and the road. The perfect starter, it tops out at 85mph.",
+    "Price": 6000,
+    "PictureUrl": "images/products/klx300.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Suzuki DRZ400",
+    "Description": "This 400cc supermoto is a bestseller. Strong braking and acceleration, this bike is perfect and will last you a lifetime. Cruise the track or streets at speeds of 130mph.",
+    "Price": 14000,
+    "PictureUrl": "images/products/drz400.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Harley Ultra Limited",
+    "Description": "Going for a road trip with passengers and luggage? Start up the Ultra and drive down the highway with luxury comfort. Did we wention it can go 160mph.",
+    "Price": 35000,
+    "PictureUrl": "images/products/ultra.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Suzuki Burgman 400",
+    "Description": "The biggest scooter we have for sale here with a liquid cooled 400cc engine. Some may say overkill for a scooter but we say its perfect. It tops out at 93mph.",
+    "Price": 8400,
+    "PictureUrl": "images/products/burgman.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Honda CRF450RL",
+    "Description": "When it comes to versatility, no need to look any further. On-road or off this bike will be rippin it up. Six-speed transmission giving you ulitmate control over this bike. We have got this bike to reach top speed of 100mph.",
+    "Price": 10400,
+    "PictureUrl": "images/products/crf450L.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "KTM RC 8C",
+    "Description": "The 8C is ready to race. A star on the track with 99kW of power. Reach top speeds of 178mph with this bike.",
+    "Price": 12500,
+    "PictureUrl": "images/products/8crc.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Yamaha XMAX 300",
+    "Description": "A scooter with a 300cc engine. Thats how you go fast and save gas. This scooter can reach speeds of 90 mph.",
+    "Price": 7000,
+    "PictureUrl": "images/products/xmax.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Suzuki Hayabusa",
+    "Description": "One of the fastest bikes ever sold, you know we have to sell them here. 1300cc inline four cylinder on a bike. This will make you fly up to 190mph.",
+    "Price": 20000,
+    "PictureUrl": "images/products/hayabusa.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Harley Street Bob",
+    "Description": "Classic laid back Harley. It does not get much better than that. We beefed it up for you so it can reach 140mph.",
+    "Price": 18900,
+    "PictureUrl": "images/products/streetbob.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Yamaha R1",
+    "Description": "The classic 1000cc sport bike. You can accept any race on the streets with this bike. Reach top speeds of 200mph.",
+    "Price": 19000,
+    "PictureUrl": "images/products/r1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
   }
 ]
