@@ -45,10 +45,17 @@
             </div>
 
             <div class="row row-cols-3 g-3 mb-4">
+                <div *ngIf="totalCount==0" style="text-align: center;">
+                    <h3>No items matched your criteria</h3>
+                </div>
                 <div class="col" *ngFor="let product of products">
                     <app-product-item [product]="product"></app-product-item>
+                    
                 </div>
+                
             </div>
+            <ng-template #noProduct>
+                </ng-template>
 
             <div class="d-flex justify-content-center" *ngIf="totalCount > 0">
                 <app-pager

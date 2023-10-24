@@ -14,7 +14,7 @@ export class RegisterComponent {
   errors: string[] | null = null;
 
   constructor(private fb: FormBuilder, private accountService: AccountService, private router: Router){}
-  complexPassword = "(?=^.{6,10}$)(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&amp;*()_+}{&quot;:;'?/&gt;.&lt;,])(?!.*\s).*$"
+  complexPassword = "(?=^.{6,10}$)(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&amp;*()_+}{&quot;:;'?/&gt;.&lt;,])(?!.*\\s).*$"
 
   registerForm = this.fb.group({
     displayName: ['', Validators.required],

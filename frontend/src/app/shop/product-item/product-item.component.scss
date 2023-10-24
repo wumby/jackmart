@@ -50,3 +50,17 @@
     background-color: black;
     border:none;
 }
+
+.card-body{
+    align-self:flex-end;
+}
+
+.image{
+    align-self: center;
+}
+
+.card-div{
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+}

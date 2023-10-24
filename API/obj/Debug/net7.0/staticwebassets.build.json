@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l1GF3j8PQ/XCNdnC3KpCGyinwvYpTBs2uCWKsvX1U0c=",
+  "Hash": "8gQ0IJ4CSK4OB1rT/wkWz4dqkFf1YqH/iArBvrtPjUE=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -34,12 +34,12 @@
       "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\700f.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang1.png",
+      "RelativePath": "images/products/700f.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\700f.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\8crc.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang2.png",
+      "RelativePath": "images/products/8crc.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\8crc.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\burgman.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core1.png",
+      "RelativePath": "images/products/burgman.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\burgman.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\crf_300R.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core2.png",
+      "RelativePath": "images/products/crf_300R.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\crf_300R.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\crf450L.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-redis1.png",
+      "RelativePath": "images/products/crf450L.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\crf450L.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\drz400.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code1.png",
+      "RelativePath": "images/products/drz400.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\drz400.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\h2r.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code2.png",
+      "RelativePath": "images/products/h2r.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\h2r.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\hayabusa.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react1.png",
+      "RelativePath": "images/products/hayabusa.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\hayabusa.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\klx300.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react2.png",
+      "RelativePath": "images/products/klx300.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\klx300.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\ktm450smr.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-core1.png",
+      "RelativePath": "images/products/ktm450smr.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\ktm450smr.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\metro.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react1.png",
+      "RelativePath": "images/products/metro.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\metro.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\r1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react2.png",
+      "RelativePath": "images/products/r1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\r1.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\shadow.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang1.png",
+      "RelativePath": "images/products/shadow.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\shadow.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\streetbob.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang2.png",
+      "RelativePath": "images/products/streetbob.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\streetbob.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\streetglide.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core1.png",
+      "RelativePath": "images/products/streetglide.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\streetglide.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\ultra.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core2.png",
+      "RelativePath": "images/products/ultra.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\ultra.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\vulcan.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-react1.png",
+      "RelativePath": "images/products/vulcan.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\vulcan.png"
     },
     {
-      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\images\\products\\xmax.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ts1.png",
+      "RelativePath": "images/products/xmax.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,7 +337,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\xmax.png"
     }
   ]
 }

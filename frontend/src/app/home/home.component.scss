@@ -11,11 +11,12 @@
 }
 
 .text{
-    position: absolute;
     font-size: 3em;
-    left:5%;
-    bottom:10%;
-    color: white;
+    display: flex;
+    justify-content: center;
+    top:10%;
+    width: 100%;
+    color: black;
 
 }
 
@@ -25,4 +26,13 @@
     border:none;
     background-color: red;
     color:white;
+}
+
+.featured{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.carousel-caption{
+    color:black;
 }

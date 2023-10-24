@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
+  slides = [
+    {image: 'assets/images/h2r.png'},
+    {image: 'assets/images/drz400.png'},
+    {image: 'assets/images/r1.png'},
+    {image: 'assets/images/ktm450smr.png'}
+ ];
+ noWrapSlides = false;
+ showIndicator = false;
 
 }

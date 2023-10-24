@@ -3,7 +3,7 @@ s<header class="d-flex flex-row align-items-center justify-content-between borde
 
     <nav class="navbar bg-primary" data-bs-theme="dark" style="width: 100%;">
         <div class="container-fluid">
-          <a class="navbar-brand" routerLink="/">speedsters<img src="/assets/images/logo1.png" alt="logo" class="logo" style="max-height: 40px;padding-left:10px" routerLink="/"></a>
+          <a class="navbar-brand" routerLink="/" style="width: 20%;">speedsters<img src="/assets/images/logo1.png" alt="logo" class="logo" style="max-height: 40px;padding-left:10px" routerLink="/"></a>
           
 
           <div  class="d-flex align-items-center justify-content-between">
@@ -13,7 +13,7 @@ s<header class="d-flex flex-row align-items-center justify-content-between borde
                 <a class="nav-link" routerLink="/shop" style="padding:15px">Shop</a>
                 <a class="nav-link" routerLink="/about" >About</a>
           </div>
-            <div class="d-flex align-items-center">
+            <div class="d-flex align-items-center justify-content-end" style="width: 20%;">
               <a routerLink="/cart" class="position-relative">
                 <i class="fa fa-shopping-cart" style="color: white; font-size:34px;padding-right: 15px;"></i>
                 <div *ngIf="(basketService.basketSource$ | async) as basket">
