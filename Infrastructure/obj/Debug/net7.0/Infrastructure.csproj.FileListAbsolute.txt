@@ -32,3 +32,7 @@ C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\obj\Debug\net7.
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
 C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\bin\Debug\net7.0\Data\SeedData\brands.json
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\bin\Debug\net7.0\Data\SeedData\delivery.json
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\bin\Debug\net7.0\Data\SeedData\products.json
+C:\Users\jackz\OneDrive\Documents\GitHub\jackmart\Infrastructure\bin\Debug\net7.0\Data\SeedData\types.json

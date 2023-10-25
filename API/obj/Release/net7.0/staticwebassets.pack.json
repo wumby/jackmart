@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\207.de5bfbd7413f1a4b.js",
+      "PackagePath": "staticwebassets\\207.de5bfbd7413f1a4b.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\333.280527020f116e06.js",
+      "PackagePath": "staticwebassets\\333.280527020f116e06.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\335.7bcb4ec159887648.js",
+      "PackagePath": "staticwebassets\\335.7bcb4ec159887648.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\481.5940ec9da4c32d3e.js",
+      "PackagePath": "staticwebassets\\481.5940ec9da4c32d3e.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\920.006486b49e070051.js",
+      "PackagePath": "staticwebassets\\920.006486b49e070051.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\burgman.png",
+      "PackagePath": "staticwebassets\\assets\\images\\burgman.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\crf450L.png",
+      "PackagePath": "staticwebassets\\assets\\images\\crf450L.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\crf_300R.png",
+      "PackagePath": "staticwebassets\\assets\\images\\crf_300R.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\drz400.png",
+      "PackagePath": "staticwebassets\\assets\\images\\drz400.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\h2r.png",
+      "PackagePath": "staticwebassets\\assets\\images\\h2r.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\hayabusa copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hayabusa copy.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\hayabusa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hayabusa.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\ktm450smr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ktm450smr.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\metro.png",
+      "PackagePath": "staticwebassets\\assets\\images\\metro.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\r1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\r1.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\shadow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\streetbob.png",
+      "PackagePath": "staticwebassets\\assets\\images\\streetbob.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\streetglide.png",
+      "PackagePath": "staticwebassets\\assets\\images\\streetglide.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\track.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\track.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\ultra.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ultra.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\vulcan.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vulcan.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\assets\\images\\xmax.png",
+      "PackagePath": "staticwebassets\\assets\\images\\xmax.png"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\common.1903628d9ef49145.js",
+      "PackagePath": "staticwebassets\\common.1903628d9ef49145.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\main.8aa1a9efab340634.js",
+      "PackagePath": "staticwebassets\\main.8aa1a9efab340634.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\polyfills.9235a755e281251e.js",
+      "PackagePath": "staticwebassets\\polyfills.9235a755e281251e.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\runtime.7f006871ddf5da6c.js",
+      "PackagePath": "staticwebassets\\runtime.7f006871ddf5da6c.js"
+    },
+    {
+      "Id": "C:\\Users\\jackz\\OneDrive\\Documents\\GitHub\\jackmart\\API\\wwwroot\\styles.a1ded22a09da6c1a.css",
+      "PackagePath": "staticwebassets\\styles.a1ded22a09da6c1a.css"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
