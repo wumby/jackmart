@@ -17,10 +17,10 @@
                 "name": "Linux",
                 "description": "SFTP folder",
 
-                "host": "146.190.49.25", "port": 22,
-                "user": "root", "password": "GN_#aSprSp4Q%Wh",
+                "host": "24.144.80.36", "port": 22,
+                "user": "root", "password": "hjJ75^dd",
 
-                "dir": "/var/skinet",
+                "dir": "/var/jackmart",
                 "mappings": {
                     "publish/**": "/"
                 }
