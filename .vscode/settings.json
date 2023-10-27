@@ -17,8 +17,8 @@
                 "name": "Linux",
                 "description": "SFTP folder",
 
-                "host": "24.144.80.36", "port": 22,
-                "user": "root", "password": "hjJ75^dd",
+                "host": "146.190.113.134", "port": 22,
+                "user": "root", "password": "hhHuey!7d",
 
                 "dir": "/var/jackmart",
                 "mappings": {
